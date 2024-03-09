@@ -26,11 +26,17 @@ This Repository contains:
   
   4. Detailed instructions on installing and running the app in the README file.<br>
     1. Simply Run the Jupyternotebook Scripts.<br>
-    2. Code involves Mining, Closed or Merged Predicator.
-  
+    2. Code involves Mining, Closed or Merged Predicator.]
+    
   5. Log file describing the app activity (requests made, timing, errors, etc)<br>
     1. With using PyGithub, the repository requests are made by Github API. <br>
     2. 1000 PR took `41m 44s`<br>
     3. No error occurred within the process<br>
       
-  7. An analysis of the large amount of information processed.
+  6. An analysis of the large amount of information processed.
+
+
+## Analysis
+The application provides insights into the dynamics of pull requests within the mined repository, including trends in closure and merging rates. <br>
+This analysis can help understand contribution patterns and the efficiency of repository management.
+
